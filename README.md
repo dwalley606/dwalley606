@@ -1,10 +1,6 @@
 ## Hello world!
 
-My name is Daniel Walley. I am a web developer specializing in front-end development.
-
-I have six years experience developing on content management systems. For the past two years I have been learning React.js, Node.js, Bootstrap, and SQL.
-
-Outside of developing, I am a professional musician and military veteran. I also enjoy PC gaming, golfing, and personal fitness.
+I am an experienced and proactive Full Stack Web Developer with 5+ years of expertise in building dynamic and responsive applications. I have hands-on experience in creating a wide range of mission-critical workflows using Node.js, Express.js and React. Proven track record of delivering scalable, high-performance applications with a focus on creating efficient, reusable, and testable code. Skilled in Agile methodologies and collaboration with cross-functional teams, with a keen eye for UX/UI design, web accessibility (WCAG 2.0), and Section 508 compliance. Passionate about continuous learning and committed to leveraging cutting-edge technologies to make a positive impact, particularly in mission-driven environments.
 
 
 
